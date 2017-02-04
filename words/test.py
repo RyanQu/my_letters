@@ -16,12 +16,12 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 #charset='utf-8'
-hostname='114.215.81.70'
-username='letterpress'
-password='ZRFEZtYdULV9H54R'
+hostname='hostname'
+username='username'
+password='password'
 database='letterpress'
 table='words'
-filepath = "/Users/RyanQu/Documents/Workspace/ApacheRoot/letterpress/resources/words/"
+filepath = "filepath"
 
 head_list = list()
 words_list = list()
