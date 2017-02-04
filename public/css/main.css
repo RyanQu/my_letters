@@ -1,0 +1,65 @@
+.title{
+    font-size: 22px;
+}
+.sub-title{
+    font-size: 17px;
+}
+.board{
+    width: 400px;
+}
+.block{
+    width: 80px;
+    height: 80px;
+    color: #000;
+    border: 0px;
+    font-size: 30px;
+    background-color: #ddd;
+}
+/*.redplay, .redplay:focus, .redplay.focus, .redplay:active, .redplay.active, .redplay:active:focus, .redplay.active.focus{
+    background-color: #F7998D;
+    color: #000;
+}
+.redplay:hover, .redplay:active:hover, .redplay.active.hover{
+    background-color: #F7998D;
+    color: #000;
+}
+.redplay-static, .redplay-static:focus, .redplay-static.focus, .redplay-static:active, .redplay-static.active, .redplay-static:active:focus, .redplay-static.active.focus{
+    background-color: #FF432F;
+    color: #000;
+}
+.redplay-static:hover, .redplay-static:active:hover, .redplay-static.active.hover{
+    background-color: #FF432F;
+    color: #000;
+}*/
+.red{
+    background-color: #F7998D;
+    color: #000;
+}
+.red-static{
+    background-color: #FF432F;
+    color: #000;
+}
+/*.blueplay, .blueplay:focus, .blueplay.focus, .blueplay:active, .blueplay.active, .blueplay:active:focus, .blueplay.active.focus{
+    background-color: #78C8F5;
+    color: #000;
+}
+.blueplay:hover, .blueplay:active:hover, .blueplay.active.hover{
+    background-color: #78C8F5;
+    color: #000;
+}
+.blueplay-static, .blueplay-static:focus, .blueplay-static.focus, .blueplay-static:active, .blueplay-static.active, .blueplay-static:active:focus, .blueplay-static.active.focus{
+    background-color: #00A2FF;
+    color: #000;
+}
+.blueplay-static:hover, .blueplay-static:active:hover, .blueplay-static.active.hover{
+    background-color: #00A2FF;
+    color: #000;
+}*/
+.blu{
+    background-color: #78C8F5;
+    color: #000;
+}
+.blu-static{
+    background-color: #00A2FF;
+    color: #000;
+}
